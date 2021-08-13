@@ -1,16 +1,11 @@
-# learning_series
+# learning_series (sorta_learning_series - Learning 11)
+- ListTile widget is used to populate a ListView in Flutter
 
-A new Flutter project.
+A project based on learning differnt concept of flutter.
 
-## Getting Started
+Include:
+ - Title & Subtitle for the listTile
+ - Leading and trailing for icons in the listTile
+ - Selected property //This property holds a boolean as the object. If set to true then the text and icon will be painted with the same color(default to primary color)
+ - onTap & onLongPress
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
